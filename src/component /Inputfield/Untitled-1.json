@@ -1,0 +1,63 @@
+{
+    "limit": 4,
+    "products": [
+        {
+            "brand": "Apple",
+            "category": "smartphones",
+            "description": "An apple mobile which is nothing like apple",
+            "discountPercentage": 12.96,
+            "id": 1,
+            "images": [Array
+            ],
+            "price": 549,
+            "rating": 4.69,
+            "stock": 94,
+            "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+            "title": "iPhone 9"
+        },
+        {
+            "brand": "Apple",
+            "category": "smartphones",
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+            "discountPercentage": 17.94,
+            "id": 2,
+            "images": [Array
+            ],
+            "price": 899,
+            "rating": 4.44,
+            "stock": 34,
+            "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+            "title": "iPhone X"
+        },
+        {
+            "brand": "LouisWill",
+            "category": "womens-bags",
+            "description": "LouisWill Women Shoulder Bags Long Clutches Cross Body Bags Phone Bags PU Leather Hand Bags Large Capacity Card Holders Zipper Coin Purses Fashion Crossbody Bags for Girls Ladies",
+            "discountPercentage": 14.65,
+            "id": 71,
+            "images": [Array
+            ],
+            "price": 46,
+            "rating": 4.71,
+            "stock": 17,
+            "thumbnail": "https://i.dummyjson.com/data/products/71/thumbnail.jpg",
+            "title": "Women Shoulder Bags"
+        },
+        {
+            "brand": "Car Aux",
+            "category": "automotive",
+            "description": "Bluetooth Aux Bluetooth Car Aux Car Bluetooth Transmitter Aux Audio Receiver Handfree Car Bluetooth Music Receiver Universal 3.5mm Streaming A2DP Wireless Auto AUX Audio Adapter With Mic For Phone MP3",
+            "discountPercentage": 10.56,
+            "id": 86,
+            "images": [Array
+            ],
+            "price": 25,
+            "rating": 4.57,
+            "stock": 22,
+            "thumbnail": "https://i.dummyjson.com/data/products/86/thumbnail.jpg",
+            "title": "Bluetooth Aux"
+        }
+    ],
+    "skip": 0,
+    "total": 4
+}

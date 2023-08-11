@@ -1,0 +1,13 @@
+current directory: /Users/dr.mac/Documents/Deginenative/vendor/bundle/ruby/2.6.0/gems/json-2.6.3/ext/json
+/Users/dr.mac/.rvm/rubies/ruby-2.6.10/bin/ruby -I /Users/dr.mac/.rvm/rubies/ruby-2.6.10/lib/ruby/site_ruby/2.6.0 -r ./siteconf20230724-10082-12dmtrk.rb extconf.rb
+creating Makefile
+
+current directory: /Users/dr.mac/Documents/Deginenative/vendor/bundle/ruby/2.6.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/dr.mac/Documents/Deginenative/vendor/bundle/ruby/2.6.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/dr.mac/Documents/Deginenative/vendor/bundle/ruby/2.6.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install
